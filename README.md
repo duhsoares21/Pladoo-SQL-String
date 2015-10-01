@@ -7,5 +7,5 @@ TableName::Field1[fieldtype|opt param|opt param],Field2[fieldtype(fieldsize)],Fi
 Real case example: 
 Users::id[int|NOT NULL|Primary Key],name[varchar(255)],birthdate[datetime]
 
-To use the script, you just need to run the page on a local or online server, and type/paste the string on the text field, 
+To use the script "sqlnote.php", you just need to run the page on a local or online server, and type/paste the string on the text field, 
 and click "Generate SQL" button
